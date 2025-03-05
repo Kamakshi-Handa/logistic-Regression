@@ -5,3 +5,4 @@ The repository contains four files:
 2. **Word File with answers** : Assignment Subjective Questions Final.pdf
 3. **PPT file (Converted to PDF)**: Lead Scoring Case Study Presenation Final.pdf
 4. **Summary PDF**: Summary.pdf
+![Logistic Regression](https://github.com/Kamakshi-Handa/logistic-Regression/blob/main/ml.jpg)
